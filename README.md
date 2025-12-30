@@ -1,7 +1,9 @@
 # Clearview
+
 Teams need a flexible way to visualize metrics without engineering help. InsightBoard allows users to build customizable dashboards using reusable widgets, saved layouts, and shared views—optimized for performance at scale.
 
 ## MVP
+
 ### Dashboard
 
 - Create / edit / delete dashboards
@@ -39,6 +41,7 @@ Teams need a flexible way to visualize metrics without engineering help. Insight
 - Storybook
 
 ## Folder Structure
+
 ```
 src/
  ├── app/            # App setup, providers
@@ -59,4 +62,3 @@ src/
  ├── utils/
  └── types/
 ```
-
